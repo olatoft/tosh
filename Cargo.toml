@@ -1,5 +1,5 @@
 [package]
-name = "shell"
+name = "tosh"
 version = "0.1.0"
 authors = ["Ola Toft <olatoft@hotmail.com>"]
 edition = "2018"

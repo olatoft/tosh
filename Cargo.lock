@@ -99,7 +99,7 @@ version = "0.8.14"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
-name = "shell"
+name = "tosh"
 version = "0.1.0"
 dependencies = [
  "colored 1.8.0 (registry+https://github.com/rust-lang/crates.io-index)",
